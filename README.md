@@ -41,7 +41,6 @@ Open your web browser and navigate to [http://localhost:8080](http://localhost:8
 Open your web browser and navigate to [http://localhost:8081](http://localhost:8081). Use the following credentials to log in:
 - Username: root
 - Password: 123
-You can manage the MySQL database associated with the PHP application using PHPMyAdmin.
 
 ## Customization
 You can customize this Docker project to fit your needs:
